@@ -13,6 +13,17 @@
 		E139BEE32AE2F34D00D5372E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E139BEE12AE2F34D00D5372E /* Main.storyboard */; };
 		E139BEE52AE2F34E00D5372E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E139BEE42AE2F34E00D5372E /* Assets.xcassets */; };
 		E139BEE82AE2F34E00D5372E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E139BEE62AE2F34E00D5372E /* LaunchScreen.storyboard */; };
+		E139BEFA2AE2F4A100D5372E /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E139BEF02AE2F4A100D5372E /* nssl0049.jpg */; };
+		E139BEFB2AE2F4A100D5372E /* nssl0046.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E139BEF12AE2F4A100D5372E /* nssl0046.jpg */; };
+		E139BEFC2AE2F4A100D5372E /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E139BEF22AE2F4A100D5372E /* nssl0091.jpg */; };
+		E139BEFD2AE2F4A100D5372E /* nssl0045.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E139BEF32AE2F4A100D5372E /* nssl0045.jpg */; };
+		E139BEFE2AE2F4A100D5372E /* nssl0051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E139BEF42AE2F4A100D5372E /* nssl0051.jpg */; };
+		E139BEFF2AE2F4A100D5372E /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E139BEF52AE2F4A100D5372E /* nssl0041.jpg */; };
+		E139BF002AE2F4A100D5372E /* nssl0042.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E139BEF62AE2F4A100D5372E /* nssl0042.jpg */; };
+		E139BF012AE2F4A100D5372E /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E139BEF72AE2F4A100D5372E /* nssl0043.jpg */; };
+		E139BF022AE2F4A100D5372E /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E139BEF82AE2F4A100D5372E /* nssl0033.jpg */; };
+		E139BF032AE2F4A100D5372E /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E139BEF92AE2F4A100D5372E /* nssl0034.jpg */; };
+		E139BF052AE300A900D5372E /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E139BF042AE300A900D5372E /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +35,17 @@
 		E139BEE42AE2F34E00D5372E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E139BEE72AE2F34E00D5372E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E139BEE92AE2F34E00D5372E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E139BEF02AE2F4A100D5372E /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpg; sourceTree = "<group>"; };
+		E139BEF12AE2F4A100D5372E /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0046.jpg; sourceTree = "<group>"; };
+		E139BEF22AE2F4A100D5372E /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpg; sourceTree = "<group>"; };
+		E139BEF32AE2F4A100D5372E /* nssl0045.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0045.jpg; sourceTree = "<group>"; };
+		E139BEF42AE2F4A100D5372E /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0051.jpg; sourceTree = "<group>"; };
+		E139BEF52AE2F4A100D5372E /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
+		E139BEF62AE2F4A100D5372E /* nssl0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0042.jpg; sourceTree = "<group>"; };
+		E139BEF72AE2F4A100D5372E /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpg; sourceTree = "<group>"; };
+		E139BEF82AE2F4A100D5372E /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
+		E139BEF92AE2F4A100D5372E /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
+		E139BF042AE300A900D5372E /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,12 +81,31 @@
 				E139BEDB2AE2F34D00D5372E /* AppDelegate.swift */,
 				E139BEDD2AE2F34D00D5372E /* SceneDelegate.swift */,
 				E139BEDF2AE2F34D00D5372E /* ViewController.swift */,
+				E139BF042AE300A900D5372E /* DetailViewController.swift */,
 				E139BEE12AE2F34D00D5372E /* Main.storyboard */,
 				E139BEE42AE2F34E00D5372E /* Assets.xcassets */,
 				E139BEE62AE2F34E00D5372E /* LaunchScreen.storyboard */,
 				E139BEE92AE2F34E00D5372E /* Info.plist */,
+				E139BEEF2AE2F4A100D5372E /* Content */,
 			);
 			path = UIKitProject;
+			sourceTree = "<group>";
+		};
+		E139BEEF2AE2F4A100D5372E /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				E139BEF02AE2F4A100D5372E /* nssl0049.jpg */,
+				E139BEF12AE2F4A100D5372E /* nssl0046.jpg */,
+				E139BEF22AE2F4A100D5372E /* nssl0091.jpg */,
+				E139BEF32AE2F4A100D5372E /* nssl0045.jpg */,
+				E139BEF42AE2F4A100D5372E /* nssl0051.jpg */,
+				E139BEF52AE2F4A100D5372E /* nssl0041.jpg */,
+				E139BEF62AE2F4A100D5372E /* nssl0042.jpg */,
+				E139BEF72AE2F4A100D5372E /* nssl0043.jpg */,
+				E139BEF82AE2F4A100D5372E /* nssl0033.jpg */,
+				E139BEF92AE2F4A100D5372E /* nssl0034.jpg */,
+			);
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +166,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E139BEFB2AE2F4A100D5372E /* nssl0046.jpg in Resources */,
+				E139BF022AE2F4A100D5372E /* nssl0033.jpg in Resources */,
+				E139BEFE2AE2F4A100D5372E /* nssl0051.jpg in Resources */,
+				E139BEFC2AE2F4A100D5372E /* nssl0091.jpg in Resources */,
+				E139BF012AE2F4A100D5372E /* nssl0043.jpg in Resources */,
+				E139BF032AE2F4A100D5372E /* nssl0034.jpg in Resources */,
+				E139BEFA2AE2F4A100D5372E /* nssl0049.jpg in Resources */,
+				E139BEFF2AE2F4A100D5372E /* nssl0041.jpg in Resources */,
+				E139BF002AE2F4A100D5372E /* nssl0042.jpg in Resources */,
 				E139BEE82AE2F34E00D5372E /* LaunchScreen.storyboard in Resources */,
 				E139BEE52AE2F34E00D5372E /* Assets.xcassets in Resources */,
+				E139BEFD2AE2F4A100D5372E /* nssl0045.jpg in Resources */,
 				E139BEE32AE2F34D00D5372E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -141,6 +192,7 @@
 				E139BEE02AE2F34D00D5372E /* ViewController.swift in Sources */,
 				E139BEDC2AE2F34D00D5372E /* AppDelegate.swift in Sources */,
 				E139BEDE2AE2F34D00D5372E /* SceneDelegate.swift in Sources */,
+				E139BF052AE300A900D5372E /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -294,6 +346,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = UIKitProject/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Storm Viewer";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -321,6 +374,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = UIKitProject/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Storm Viewer";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
